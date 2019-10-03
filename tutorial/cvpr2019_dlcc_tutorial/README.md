@@ -1,1 +1,0 @@
-# Deep Learning for Content Creation Tutorial at CVPR 2019 #
